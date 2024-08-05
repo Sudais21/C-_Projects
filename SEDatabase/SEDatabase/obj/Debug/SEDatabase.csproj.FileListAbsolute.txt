@@ -1,0 +1,25 @@
+C:\Users\Yousafzai\source\repos\SEDatabase\SEDatabase\bin\Debug\se_database.mdf
+C:\Users\Yousafzai\source\repos\SEDatabase\SEDatabase\bin\Debug\se_database_log.ldf
+C:\Users\Yousafzai\source\repos\SEDatabase\SEDatabase\bin\Debug\SEDatabase.exe.config
+C:\Users\Yousafzai\source\repos\SEDatabase\SEDatabase\bin\Debug\SEDatabase.exe
+C:\Users\Yousafzai\source\repos\SEDatabase\SEDatabase\bin\Debug\SEDatabase.pdb
+C:\Users\Yousafzai\source\repos\SEDatabase\SEDatabase\obj\Debug\SEDatabase.csproj.AssemblyReference.cache
+C:\Users\Yousafzai\source\repos\SEDatabase\SEDatabase\obj\Debug\SEDatabase.csproj.SuggestedBindingRedirects.cache
+C:\Users\Yousafzai\source\repos\SEDatabase\SEDatabase\obj\Debug\SEDatabase.Form1.resources
+C:\Users\Yousafzai\source\repos\SEDatabase\SEDatabase\obj\Debug\SEDatabase.Properties.Resources.resources
+C:\Users\Yousafzai\source\repos\SEDatabase\SEDatabase\obj\Debug\SEDatabase.csproj.GenerateResource.cache
+C:\Users\Yousafzai\source\repos\SEDatabase\SEDatabase\obj\Debug\SEDatabase.csproj.CoreCompileInputs.cache
+C:\Users\Yousafzai\source\repos\SEDatabase\SEDatabase\obj\Debug\SEDatabase.exe
+C:\Users\Yousafzai\source\repos\SEDatabase\SEDatabase\obj\Debug\SEDatabase.pdb
+C:\Users\Sudais Khan\source\repos\SEDatabase\SEDatabase\bin\Debug\SEDatabase.mdf
+C:\Users\Sudais Khan\source\repos\SEDatabase\SEDatabase\bin\Debug\SEDatabase_log.ldf
+C:\Users\Sudais Khan\source\repos\SEDatabase\SEDatabase\bin\Debug\SEDatabase.exe.config
+C:\Users\Sudais Khan\source\repos\SEDatabase\SEDatabase\bin\Debug\SEDatabase.exe
+C:\Users\Sudais Khan\source\repos\SEDatabase\SEDatabase\bin\Debug\SEDatabase.pdb
+C:\Users\Sudais Khan\source\repos\SEDatabase\SEDatabase\obj\Debug\SEDatabase.csproj.AssemblyReference.cache
+C:\Users\Sudais Khan\source\repos\SEDatabase\SEDatabase\obj\Debug\SEDatabase.Form1.resources
+C:\Users\Sudais Khan\source\repos\SEDatabase\SEDatabase\obj\Debug\SEDatabase.Properties.Resources.resources
+C:\Users\Sudais Khan\source\repos\SEDatabase\SEDatabase\obj\Debug\SEDatabase.csproj.GenerateResource.cache
+C:\Users\Sudais Khan\source\repos\SEDatabase\SEDatabase\obj\Debug\SEDatabase.csproj.CoreCompileInputs.cache
+C:\Users\Sudais Khan\source\repos\SEDatabase\SEDatabase\obj\Debug\SEDatabase.exe
+C:\Users\Sudais Khan\source\repos\SEDatabase\SEDatabase\obj\Debug\SEDatabase.pdb

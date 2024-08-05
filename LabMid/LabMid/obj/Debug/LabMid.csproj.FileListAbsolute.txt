@@ -1,0 +1,12 @@
+C:\Users\Yousafzai\source\repos\LabMid\LabMid\bin\Debug\LabMid.exe.config
+C:\Users\Yousafzai\source\repos\LabMid\LabMid\bin\Debug\LabMid.exe
+C:\Users\Yousafzai\source\repos\LabMid\LabMid\bin\Debug\LabMid.pdb
+C:\Users\Yousafzai\source\repos\LabMid\LabMid\obj\Debug\LabMid.csproj.AssemblyReference.cache
+C:\Users\Yousafzai\source\repos\LabMid\LabMid\obj\Debug\LabMid.csproj.SuggestedBindingRedirects.cache
+C:\Users\Yousafzai\source\repos\LabMid\LabMid\obj\Debug\LabMid.Form1.resources
+C:\Users\Yousafzai\source\repos\LabMid\LabMid\obj\Debug\LabMid.Properties.Resources.resources
+C:\Users\Yousafzai\source\repos\LabMid\LabMid\obj\Debug\LabMid.csproj.GenerateResource.cache
+C:\Users\Yousafzai\source\repos\LabMid\LabMid\obj\Debug\LabMid.csproj.CoreCompileInputs.cache
+C:\Users\Yousafzai\source\repos\LabMid\LabMid\obj\Debug\LabMid.exe
+C:\Users\Yousafzai\source\repos\LabMid\LabMid\obj\Debug\LabMid.pdb
+C:\Users\Yousafzai\source\repos\LabMid\LabMid\obj\Debug\LabMid.Form2.resources

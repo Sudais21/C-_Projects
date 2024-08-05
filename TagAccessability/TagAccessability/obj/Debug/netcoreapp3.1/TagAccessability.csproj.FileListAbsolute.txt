@@ -1,0 +1,5 @@
+C:\Users\Sudais Khan\source\repos\TagAccessability\TagAccessability\obj\Debug\netcoreapp3.1\TagAccessability.csproj.AssemblyReference.cache
+C:\Users\Sudais Khan\source\repos\TagAccessability\TagAccessability\obj\Debug\netcoreapp3.1\TagAccessability.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sudais Khan\source\repos\TagAccessability\TagAccessability\obj\Debug\netcoreapp3.1\TagAccessability.AssemblyInfoInputs.cache
+C:\Users\Sudais Khan\source\repos\TagAccessability\TagAccessability\obj\Debug\netcoreapp3.1\TagAccessability.AssemblyInfo.cs
+C:\Users\Sudais Khan\source\repos\TagAccessability\TagAccessability\obj\Debug\netcoreapp3.1\TagAccessability.csproj.CoreCompileInputs.cache

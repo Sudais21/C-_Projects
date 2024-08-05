@@ -1,0 +1,13 @@
+C:\Users\Sudais Khan\source\repos\Project002\Project002\bin\Debug\Project002.exe.config
+C:\Users\Sudais Khan\source\repos\Project002\Project002\bin\Debug\Project002.exe
+C:\Users\Sudais Khan\source\repos\Project002\Project002\bin\Debug\Project002.pdb
+C:\Users\Sudais Khan\source\repos\Project002\Project002\obj\Debug\Project002.csproj.AssemblyReference.cache
+C:\Users\Sudais Khan\source\repos\Project002\Project002\obj\Debug\Project002.Form1.resources
+C:\Users\Sudais Khan\source\repos\Project002\Project002\obj\Debug\Project002.Properties.Resources.resources
+C:\Users\Sudais Khan\source\repos\Project002\Project002\obj\Debug\Project002.csproj.GenerateResource.cache
+C:\Users\Sudais Khan\source\repos\Project002\Project002\obj\Debug\Project002.csproj.CoreCompileInputs.cache
+C:\Users\Sudais Khan\source\repos\Project002\Project002\obj\Debug\Project002.exe
+C:\Users\Sudais Khan\source\repos\Project002\Project002\obj\Debug\Project002.pdb
+C:\Users\Sudais Khan\source\repos\Project002\Project002\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Sudais Khan\source\repos\Project002\Project002\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\Sudais Khan\source\repos\Project002\Project002\obj\Debug\Project002.csproj.CopyComplete

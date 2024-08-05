@@ -1,0 +1,8 @@
+C:\Users\Yousafzai\source\repos\labPractice\labPractice\bin\Debug\labPractice.exe.config
+C:\Users\Yousafzai\source\repos\labPractice\labPractice\bin\Debug\labPractice.exe
+C:\Users\Yousafzai\source\repos\labPractice\labPractice\bin\Debug\labPractice.pdb
+C:\Users\Yousafzai\source\repos\labPractice\labPractice\obj\Debug\labPractice.csproj.AssemblyReference.cache
+C:\Users\Yousafzai\source\repos\labPractice\labPractice\obj\Debug\labPractice.csproj.SuggestedBindingRedirects.cache
+C:\Users\Yousafzai\source\repos\labPractice\labPractice\obj\Debug\labPractice.csproj.CoreCompileInputs.cache
+C:\Users\Yousafzai\source\repos\labPractice\labPractice\obj\Debug\labPractice.exe
+C:\Users\Yousafzai\source\repos\labPractice\labPractice\obj\Debug\labPractice.pdb

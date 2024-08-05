@@ -1,0 +1,15 @@
+C:\Users\Sudais Khan\source\repos\CodeFirstApproachEF\CodeFirstApproachEF\bin\Debug\CodeFirstApproachEF.exe.config
+C:\Users\Sudais Khan\source\repos\CodeFirstApproachEF\CodeFirstApproachEF\bin\Debug\CodeFirstApproachEF.exe
+C:\Users\Sudais Khan\source\repos\CodeFirstApproachEF\CodeFirstApproachEF\bin\Debug\CodeFirstApproachEF.pdb
+C:\Users\Sudais Khan\source\repos\CodeFirstApproachEF\CodeFirstApproachEF\bin\Debug\EntityFramework.dll
+C:\Users\Sudais Khan\source\repos\CodeFirstApproachEF\CodeFirstApproachEF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Sudais Khan\source\repos\CodeFirstApproachEF\CodeFirstApproachEF\bin\Debug\EntityFramework.xml
+C:\Users\Sudais Khan\source\repos\CodeFirstApproachEF\CodeFirstApproachEF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Sudais Khan\source\repos\CodeFirstApproachEF\CodeFirstApproachEF\obj\Debug\CodeFirstApproachEF.csproj.AssemblyReference.cache
+C:\Users\Sudais Khan\source\repos\CodeFirstApproachEF\CodeFirstApproachEF\obj\Debug\CodeFirstApproachEF.Form1.resources
+C:\Users\Sudais Khan\source\repos\CodeFirstApproachEF\CodeFirstApproachEF\obj\Debug\CodeFirstApproachEF.Properties.Resources.resources
+C:\Users\Sudais Khan\source\repos\CodeFirstApproachEF\CodeFirstApproachEF\obj\Debug\CodeFirstApproachEF.csproj.GenerateResource.cache
+C:\Users\Sudais Khan\source\repos\CodeFirstApproachEF\CodeFirstApproachEF\obj\Debug\CodeFirstApproachEF.csproj.CoreCompileInputs.cache
+C:\Users\Sudais Khan\source\repos\CodeFirstApproachEF\CodeFirstApproachEF\obj\Debug\CodeFirstApproachEF.csproj.CopyComplete
+C:\Users\Sudais Khan\source\repos\CodeFirstApproachEF\CodeFirstApproachEF\obj\Debug\CodeFirstApproachEF.exe
+C:\Users\Sudais Khan\source\repos\CodeFirstApproachEF\CodeFirstApproachEF\obj\Debug\CodeFirstApproachEF.pdb

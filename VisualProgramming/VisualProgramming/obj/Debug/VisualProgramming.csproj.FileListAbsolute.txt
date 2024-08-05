@@ -1,0 +1,8 @@
+C:\Users\Yousafzai\source\repos\VisualProgramming\VisualProgramming\bin\Debug\VisualProgramming.exe.config
+C:\Users\Yousafzai\source\repos\VisualProgramming\VisualProgramming\bin\Debug\VisualProgramming.exe
+C:\Users\Yousafzai\source\repos\VisualProgramming\VisualProgramming\bin\Debug\VisualProgramming.pdb
+C:\Users\Yousafzai\source\repos\VisualProgramming\VisualProgramming\obj\Debug\VisualProgramming.csproj.AssemblyReference.cache
+C:\Users\Yousafzai\source\repos\VisualProgramming\VisualProgramming\obj\Debug\VisualProgramming.csproj.SuggestedBindingRedirects.cache
+C:\Users\Yousafzai\source\repos\VisualProgramming\VisualProgramming\obj\Debug\VisualProgramming.csproj.CoreCompileInputs.cache
+C:\Users\Yousafzai\source\repos\VisualProgramming\VisualProgramming\obj\Debug\VisualProgramming.exe
+C:\Users\Yousafzai\source\repos\VisualProgramming\VisualProgramming\obj\Debug\VisualProgramming.pdb

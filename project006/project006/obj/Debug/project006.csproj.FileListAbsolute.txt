@@ -1,0 +1,10 @@
+C:\Users\Sudais Khan\source\repos\project006\project006\obj\Debug\project006.csproj.AssemblyReference.cache
+C:\Users\Sudais Khan\source\repos\project006\project006\obj\Debug\project006.Form1.resources
+C:\Users\Sudais Khan\source\repos\project006\project006\obj\Debug\project006.Properties.Resources.resources
+C:\Users\Sudais Khan\source\repos\project006\project006\obj\Debug\project006.csproj.GenerateResource.cache
+C:\Users\Sudais Khan\source\repos\project006\project006\obj\Debug\project006.csproj.CoreCompileInputs.cache
+C:\Users\Sudais Khan\source\repos\project006\project006\bin\Debug\project006.exe.config
+C:\Users\Sudais Khan\source\repos\project006\project006\bin\Debug\project006.exe
+C:\Users\Sudais Khan\source\repos\project006\project006\bin\Debug\project006.pdb
+C:\Users\Sudais Khan\source\repos\project006\project006\obj\Debug\project006.exe
+C:\Users\Sudais Khan\source\repos\project006\project006\obj\Debug\project006.pdb

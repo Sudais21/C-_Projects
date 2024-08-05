@@ -1,0 +1,12 @@
+C:\Users\Sudais Khan\source\repos\LINQTOSQL\LINQTOSQL\bin\Debug\student_db.mdf
+C:\Users\Sudais Khan\source\repos\LINQTOSQL\LINQTOSQL\bin\Debug\student_db_log.ldf
+C:\Users\Sudais Khan\source\repos\LINQTOSQL\LINQTOSQL\bin\Debug\LINQTOSQL.exe.config
+C:\Users\Sudais Khan\source\repos\LINQTOSQL\LINQTOSQL\bin\Debug\LINQTOSQL.exe
+C:\Users\Sudais Khan\source\repos\LINQTOSQL\LINQTOSQL\bin\Debug\LINQTOSQL.pdb
+C:\Users\Sudais Khan\source\repos\LINQTOSQL\LINQTOSQL\obj\Debug\LINQTOSQL.csproj.AssemblyReference.cache
+C:\Users\Sudais Khan\source\repos\LINQTOSQL\LINQTOSQL\obj\Debug\LINQTOSQL.Form1.resources
+C:\Users\Sudais Khan\source\repos\LINQTOSQL\LINQTOSQL\obj\Debug\LINQTOSQL.Properties.Resources.resources
+C:\Users\Sudais Khan\source\repos\LINQTOSQL\LINQTOSQL\obj\Debug\LINQTOSQL.csproj.GenerateResource.cache
+C:\Users\Sudais Khan\source\repos\LINQTOSQL\LINQTOSQL\obj\Debug\LINQTOSQL.csproj.CoreCompileInputs.cache
+C:\Users\Sudais Khan\source\repos\LINQTOSQL\LINQTOSQL\obj\Debug\LINQTOSQL.exe
+C:\Users\Sudais Khan\source\repos\LINQTOSQL\LINQTOSQL\obj\Debug\LINQTOSQL.pdb
